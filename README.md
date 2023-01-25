@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brooklyn-r&label=Profile%20views&color=0e75b6&style=flat" alt="brooklyn-r" /> </p>
 
-- 👩‍🎓 Completed **Udemy,The Ultimate 2022 Fullstack Web Development Bootcamp**
+- 👩‍🎓 Completed **Udemy, The Ultimate 2022 Fullstack Web Development Bootcamp**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Brooklyn-R/Brooklyn-R](https://github.com/Brooklyn-R/Brooklyn-R)
 
