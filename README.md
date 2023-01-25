@@ -1,3 +1,4 @@
+![logo](https://github.com/Brooklyn-R/Brooklyn-R/blob/main/profile_banner.png)
 <h1 align="center">Hi 👋, I'm Brooklyn Rambharos</h1>
 <h3 align="center">A enthusiastic entry level Full Stack Web Developer</h3>
 
