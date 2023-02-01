@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Brooklyn-R/Brooklyn-R](https://github.com/Brooklyn-R/Brooklyn-R)
 
-- 📫 How to reach me **brooklyn9401@gmail.com**
+- 📫 How to reach me **thebrooklyncode@gmail.com**
 
 - ⚡ Fun fact 👉 **function(on, just, enough, madness🤪)**
 
