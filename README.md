@@ -1,5 +1,5 @@
 ![logo](https://github.com/Brooklyn-R/Brooklyn-R/blob/main/profile_banner.png)
-<h1 align="center">Hi 👋, I'm Brooklyn Rambharos</h1>
+<h1 align="center">Hi 👋, I'm Brooklyn </h1>
 <h3 align="center">An enthusiastic entry level Full Stack Web Developer</h3>
 
 <img align="right" src="https://th.bing.com/th/id/R.d4b0936f300957f9e96b6dcb40041c28?rik=AW9umw%2bxjkA95w&riu=http%3a%2f%2fmedia.japanpowered.com%2fimages%2ftyping-animation.gif&ehk=RgIlxfvYPCHNqaxobpJdIkNranSMU5xKAQOEJ1Cs3Xo%3d&risl=&pid=ImgRaw&r=0" alt="" style="width: 400px; border-radius:20px; box-shadow: 0 0 15px rgba(0,0,0,0.5);" />
